@@ -16,7 +16,7 @@ namespace WebApiClient
 
         public ContactAgent()
             // : this("http://entityframework.azurewebsites.net/")
-            : this("http://localhost.fiddler:51541/")
+            : this("http://localhost:51541/")
         {
         }
 
